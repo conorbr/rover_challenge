@@ -43,6 +43,7 @@ git clone https://github.com/conorbr/rover_challenge.git
 cd into the repository and run using
 
 ```
+cd rover_challenge
 ruby main.rb
 ```
 
